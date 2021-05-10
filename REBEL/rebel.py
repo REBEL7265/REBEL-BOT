@@ -1,0 +1,1 @@
+from REBELBOT import NAME, REBEL, BOT
