@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "ULTRAX"
+          find: "MASTERBOT"
 
-          replace: "MASTERBOT"
+          replace: "REBELBOT"
 
       - name: Create Pull Request
 
