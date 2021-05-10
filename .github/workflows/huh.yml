@@ -1,5 +1,5 @@
 
-name: LEGENDX
+name: ROYAL
 
 on: push
 
@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "MASTERBOT"
+          find: "ULTRA X"
 
           replace: "REBELBOT"
 
@@ -35,6 +35,6 @@ jobs:
 
           repository: .
 
-          commit_user_name: LEGENDXOP
+          commit_user_name: ROYALOP
 
-          commit_user_email: legendxx08377@gmail.com
+          commit_user_email: ROYALxx08377@gmail.com
